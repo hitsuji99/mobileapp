@@ -17,3 +17,9 @@ HTML / CSS / JavaScript で作成した小さな Web アプリ集です。`index
 ## 使い方
 
 ビルドは不要です。リポジトリをダウンロードし、`index.html` をブラウザで開いてください。
+
+## Project_Template（Trello 風ユーザー管理アプリ）
+
+`Project_Template/` フォルダには、別リポジトリ [hitsuji99/Project_Template](https://github.com/hitsuji99/Project_Template) のコピーが入っています（GitHub Pages でデモを公開するため）。
+
+デモ: https://hitsuji99.github.io/mobileapp/Project_Template/
